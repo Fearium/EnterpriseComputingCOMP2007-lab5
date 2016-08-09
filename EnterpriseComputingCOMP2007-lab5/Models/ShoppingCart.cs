@@ -5,6 +5,13 @@ using System.Web;
 using EnterpriseComputingCOMP2007_lab5.Models;
 using System.Web.Mvc;
 
+/**
+ * Jesse Baril
+ * Monday August 8th, 2016
+ * Lab 5, Enterprise Computing
+ * 
+ */
+
 namespace EnterpriseComputingCOMP2007_lab5.Models
 {
     public class ShoppingCart
